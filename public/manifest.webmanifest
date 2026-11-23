@@ -1,0 +1,33 @@
+{
+  "name": "Stellaris Tech Tree — Research Progress Tracker",
+  "short_name": "Tech Tree",
+  "description": "Interactive Stellaris technology tree with DLC filters, rarity color coding, research odds, playstyle guides and save/load research progress. Data from Stellaris 4.3.7 (Cetus).",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#05070e",
+  "theme_color": "#05070e",
+  "categories": ["games", "utilities", "reference"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
